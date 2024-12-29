@@ -52,8 +52,8 @@ print("")
 break 
 
 print ('barang yang di beli : ' ,barang)
-print ('harga barang :', harga)
-print ('total yang harus dibayar:', total,'\n')
+print ('harga barang :',harga)
+print ('total yang harus dibayar:',total,'\n')
 
 uang = int(input('masukan uang pembayaran: '))
 if uang > total :
