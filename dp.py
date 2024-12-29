@@ -61,7 +61,7 @@ if uang > total :
 elif uang = total:
     print ('uang pas')
 else :
-    print ('uang kuang', uang total)
+    print ('uang kuang',uang total)
 
 #strukkk
 print (""47)
